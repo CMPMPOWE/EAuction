@@ -1,0 +1,10 @@
+Item name : 
+Item code :
+Item bid start Price : 
+Time remain in mins : 10080mins for 7 days
+
+
+
+the calculation for 7 days.
+24 * 60 = 1440 x 7 = 10080mins for 7 days
+
